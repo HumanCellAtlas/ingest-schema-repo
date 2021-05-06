@@ -25,11 +25,11 @@
     "rimraf": "^2.6.2",
     "serverless-finch": "^1.4.0",
     "simple-git": "^1.89.0",
-    "url-parse": ">=1.4.3"
+    "url-parse": ">=1.5.0"
   },
   "devDependencies": {
     "serverless": "^1.28.0",
     "serverless-python-requirements": "^4.3.0",
-    "url-parse": ">=1.4.3"
+    "url-parse": ">=1.5.0"
   }
 }
